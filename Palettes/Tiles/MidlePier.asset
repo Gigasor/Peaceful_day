@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: MidlePier
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -855298285791758126, guid: 3ab5e5603298327419b22a10c2f65291, type: 3}
+  - {fileID: -855298285791758126, guid: 3ab5e5603298327419b22a10c2f65291, type: 3}
+  - {fileID: 6937817954938267909, guid: 6c6122e39cc5fef45b11bec5677a0c8c, type: 3}
+  - {fileID: -6470460504253458178, guid: a61e619dc744ad3499953e0dea44f277, type: 3}
+  - {fileID: -4178046375966092550, guid: b14eba162ac50bd468bf1b3a24a7a298, type: 3}
+  - {fileID: 4130640169021434097, guid: ae7efc3714e3547448ce11e1ceae739a, type: 3}
+  - {fileID: 3465286685962602723, guid: f9c32a382c375ff40b69efcff347cc38, type: 3}
+  - {fileID: 7028616704906629411, guid: 51cab36169702b044b3a990a88e68c92, type: 3}
+  - {fileID: 8288426215254106694, guid: f01c39480318b344ca36c96eb5cda484, type: 3}
+  - {fileID: 4113829005332862926, guid: 63e03edb3a209914082efc0ef5436c07, type: 3}
+  - {fileID: -5099292496197868168, guid: 59fb6d8bb47fde34eafb8c6bb5954c2b, type: 3}
+  - {fileID: -2966200626249415253, guid: 31f88c086a6b6f24f9d3817425ae1086, type: 3}
+  - {fileID: -1540426309290004842, guid: 55ad20ea690e7414ca01f3920c53b802, type: 3}
+  - {fileID: 8389134475083476877, guid: cfe0875a0bf556b42b51a7f325543330, type: 3}
+  - {fileID: -6270953770400647376, guid: 813589905e84271499d2978ef4237824, type: 3}
+  - {fileID: 4349915267927364619, guid: d2436388f7f9f05419f5a3c886037738, type: 3}
+  - {fileID: 7680820834086852892, guid: 13a2453376b5c8a4386f590a9dbef24d, type: 3}
+  - {fileID: 6660783624410144326, guid: 0ab720309ed61eb4fab3ef23d21e6366, type: 3}
+  - {fileID: 2960402581040015946, guid: f58244059ff207f40a2a67739ac8109d, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

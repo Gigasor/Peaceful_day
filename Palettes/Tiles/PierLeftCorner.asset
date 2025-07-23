@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: PierLeftCorner
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -855298285791758126, guid: 1114e54cec1c9a9448d669f99b54be11, type: 3}
+  - {fileID: 6937817954938267909, guid: b5e308d36585a0a4cbb999dae155bf83, type: 3}
+  - {fileID: -6470460504253458178, guid: a15462902b4dc684b8c5acc9378d446f, type: 3}
+  - {fileID: -4178046375966092550, guid: c7f1d3baf50b6a4439592dba014a4741, type: 3}
+  - {fileID: 4130640169021434097, guid: 15206cb2407e65547ae36339ab91a780, type: 3}
+  - {fileID: 3465286685962602723, guid: f23b780424a7851418684210263f24a9, type: 3}
+  - {fileID: 7028616704906629411, guid: ad2373f4dc9e30541b7b2e7ce49af65c, type: 3}
+  - {fileID: 8288426215254106694, guid: 5f1a98bfe9d726444acc5dd5e0ebe275, type: 3}
+  - {fileID: 4113829005332862926, guid: 5bf2c0e099a2ff94297b45e29fd37644, type: 3}
+  - {fileID: -5099292496197868168, guid: 772864edc303e4843a06d63b0ec20b3f, type: 3}
+  - {fileID: -2966200626249415253, guid: 7a6c80b81cc6b6f47993e4c188941253, type: 3}
+  - {fileID: -1540426309290004842, guid: 622adba8e6ab0e04a82815cb73814b4c, type: 3}
+  - {fileID: 8389134475083476877, guid: 31a1032f32ac40642b8febf6fc0c4b4a, type: 3}
+  - {fileID: -6270953770400647376, guid: 72e87a01ab00c0e47bebd66f71030575, type: 3}
+  - {fileID: 4349915267927364619, guid: bdae0b923188fe5488a673d5c80a6c39, type: 3}
+  - {fileID: 7680820834086852892, guid: 2688f11ebbb446b4eb1a38b00ca78d99, type: 3}
+  - {fileID: 6660783624410144326, guid: 2e91a2edb6ea5c9439adfd3977470c0b, type: 3}
+  - {fileID: 2960402581040015946, guid: 7a557f303f06eac458447aaec085b9b1, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

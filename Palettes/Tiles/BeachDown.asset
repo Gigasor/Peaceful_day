@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: BeachDown
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -855298285791758126, guid: 6809b000b79b20e4e8186169dd3204f6, type: 3}
+  - {fileID: 6937817954938267909, guid: d8a27b91641636d419cdeb422d227609, type: 3}
+  - {fileID: -6470460504253458178, guid: df0609aba913e8c479333add231c96f6, type: 3}
+  - {fileID: -4178046375966092550, guid: 8cec5d3b628a9b14e9a543975f444759, type: 3}
+  - {fileID: 4130640169021434097, guid: 2af50b5526379d94294059e74240f9f6, type: 3}
+  - {fileID: 3465286685962602723, guid: b1a18a02628732442bd328212f83ffb8, type: 3}
+  - {fileID: 7028616704906629411, guid: 857b81e0e2fabc247abc20ece5ddde78, type: 3}
+  - {fileID: 8288426215254106694, guid: 5d42f0edfabf7fc47a8bdaaebc64f6b1, type: 3}
+  - {fileID: 4113829005332862926, guid: 4c9ca9c3c205dc940bec98f7951252d9, type: 3}
+  - {fileID: -5099292496197868168, guid: 0f8a7cb4bef3279448b58e68d313afdb, type: 3}
+  - {fileID: -2966200626249415253, guid: e58da62491bf23f4da15621d46493761, type: 3}
+  - {fileID: -1540426309290004842, guid: d3355be65d687284f94abf7285a60043, type: 3}
+  - {fileID: 8389134475083476877, guid: ebbe020304f55ab46b1f85a01c8d90c9, type: 3}
+  - {fileID: -6270953770400647376, guid: 06190492d3f47ec4699e6ef42b9ec56c, type: 3}
+  - {fileID: 4349915267927364619, guid: 410008a322c394348b6871388eba2684, type: 3}
+  - {fileID: 7680820834086852892, guid: 32a65ecf75033e343aa2b62f7bc3e34c, type: 3}
+  - {fileID: 6660783624410144326, guid: 4c01a6218b11a6b4ea9363dc95c57d2e, type: 3}
+  - {fileID: 2960402581040015946, guid: 5b902ddef82000c4d998f9200415f4b0, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

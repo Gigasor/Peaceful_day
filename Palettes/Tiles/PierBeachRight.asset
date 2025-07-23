@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: PierBeachRight
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -855298285791758126, guid: 33f49889318db514aba5b55b2f4bdc75, type: 3}
+  - {fileID: 6937817954938267909, guid: c9600b0861db3594781074fa12122fc0, type: 3}
+  - {fileID: -6470460504253458178, guid: 85f44c3c57a772042abb175b75a5be70, type: 3}
+  - {fileID: -4178046375966092550, guid: d6e2cfd129fb52c4991f30727615619a, type: 3}
+  - {fileID: 4130640169021434097, guid: de1376b16529f644f95b31792f99e816, type: 3}
+  - {fileID: 3465286685962602723, guid: 2b35b3b940e7220448b1dccc357829a2, type: 3}
+  - {fileID: 7028616704906629411, guid: c78d924c7ce461845b35957b25ea3cf1, type: 3}
+  - {fileID: 8288426215254106694, guid: 2fa7f6770e82de84982b32895404fc11, type: 3}
+  - {fileID: 4113829005332862926, guid: 5839a6bcc64c5eb41847656422a7acf1, type: 3}
+  - {fileID: -5099292496197868168, guid: 77681d7232658e740bd60fc3d0bd2dc4, type: 3}
+  - {fileID: -2966200626249415253, guid: 1e4f484ffb4eca74e9f97b04ddaf20ee, type: 3}
+  - {fileID: -1540426309290004842, guid: 6dadb8136e21543409785df6038e33b8, type: 3}
+  - {fileID: 8389134475083476877, guid: 66efdec0f0a95c44da5255a9dcb9f2e3, type: 3}
+  - {fileID: -6270953770400647376, guid: 25d4fea0eef0a4b4792eac8172d3103f, type: 3}
+  - {fileID: 4349915267927364619, guid: f33055d007ebde041925dd6969860bd0, type: 3}
+  - {fileID: 7680820834086852892, guid: ebe80ab2fa95a1c4b880eb6dcf1165e0, type: 3}
+  - {fileID: 6660783624410144326, guid: c187ebb0e722d87469bca57e75caa75b, type: 3}
+  - {fileID: 2960402581040015946, guid: 795df0853965779409d21835c5738c83, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

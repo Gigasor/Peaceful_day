@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: BeachUpRightCorner
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -855298285791758126, guid: e183d7a7976b52d4eaecac58326054cb, type: 3}
+  - {fileID: 6937817954938267909, guid: 6affed3555f124f429f1c2a948639ef8, type: 3}
+  - {fileID: -6470460504253458178, guid: 4a6248cd5e390064fb0ffba596af8813, type: 3}
+  - {fileID: -4178046375966092550, guid: a8c0f9aa2576cbe47b1aa26975a7910b, type: 3}
+  - {fileID: 4130640169021434097, guid: e0c4bfd5794c45c40a011418fb8313c3, type: 3}
+  - {fileID: 3465286685962602723, guid: 0a6377f34df15d8479063460f5c29edf, type: 3}
+  - {fileID: 7028616704906629411, guid: 645ad3abdfd00434096115edb45166dc, type: 3}
+  - {fileID: 8288426215254106694, guid: 8fae100fb66acdd41b4e57bad2613330, type: 3}
+  - {fileID: 4113829005332862926, guid: bf25e78998c825b4ba38a084f7607772, type: 3}
+  - {fileID: -5099292496197868168, guid: 352f1d2b49b8b0549b5b2844cce762a0, type: 3}
+  - {fileID: -2966200626249415253, guid: a29c0f5757febd04e95320d78f3f0d95, type: 3}
+  - {fileID: -1540426309290004842, guid: 1304cf5d957379c4289c83a237767ef9, type: 3}
+  - {fileID: 8389134475083476877, guid: 99f90e4627e8a8043ac8ecb87f32ac2c, type: 3}
+  - {fileID: -6270953770400647376, guid: e141f2ee5058e5d4eb89d9a5a351bb9a, type: 3}
+  - {fileID: 4349915267927364619, guid: f995f32e5da945b4b898ac1365c81718, type: 3}
+  - {fileID: 7680820834086852892, guid: a3dc49bb75a13c14aaa916b40c21dd7a, type: 3}
+  - {fileID: 6660783624410144326, guid: cbc7f7c44bcb33c49b3c3daca26fb2f8, type: 3}
+  - {fileID: 2960402581040015946, guid: 0bdaa74e5857aaa4cbbfc71cb8bda293, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
